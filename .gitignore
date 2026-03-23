@@ -1,0 +1,8 @@
+﻿node_modules/
+.expo/
+.expo-shared/
+.env
+.vscode/
+__pycache__/
+*.pyc
+.DS_Store

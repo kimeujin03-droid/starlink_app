@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "Starlink Pass Assistant",
+    "slug": "starlink-pass-assistant",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "platforms": ["android"],
+    "android": {
+      "package": "com.example.starlinkpassassistant",
+      "permissions": [
+        "ACCESS_FINE_LOCATION",
+        "ACCESS_COARSE_LOCATION",
+        "READ_MEDIA_IMAGES"
+      ]
+    }
+  }
+}
